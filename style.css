@@ -31,5 +31,11 @@ hr {
 }
 
 .social-img {
+    font-size: 64px;
     margin: 1rem;
+    color: #333;
+}
+
+.social-img:hover {
+    color: #0077b5;
 }
