@@ -3,3 +3,28 @@
     margin: 0;
     padding: 0;
 }
+
+body {
+    
+}
+
+main {
+    margin: auto;
+    width: 50%;
+}
+
+div {
+    border: 2px solid black;
+    margin: auto 10px;
+    width: 100%;
+    text-align: center;
+    padding: 70px 0;
+}
+
+hr {
+    
+}
+
+.social-img {
+    margin: 1rem;
+}
