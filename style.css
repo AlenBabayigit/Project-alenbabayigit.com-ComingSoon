@@ -54,3 +54,9 @@ hr {
     color: #0077B5;
     transition: color 0.5s ease-in-out;
 }
+
+footer {
+    margin-top: 5px;
+    color: gray;
+    text-align: center;
+}
