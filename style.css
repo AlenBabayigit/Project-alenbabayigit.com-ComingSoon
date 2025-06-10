@@ -70,3 +70,39 @@ footer {
     color: gray;
     text-align: center;
 }
+
+/* Tablet View */
+@media (max-width: 1200px) {
+    main {
+        margin: auto;
+        width: 70%;
+    }
+
+
+    #profile-img {
+        height: 180px;
+        width: auto;
+    }
+
+    .social-icon {
+        font-size: 48px;
+    }
+}
+
+/* Mobile View */
+@media (max-width: 768px) {
+    main {
+        margin: auto;
+        width: 80%;
+    }
+
+
+    #profile-img {
+        height: 150px;
+        width: auto;
+    }
+
+    .social-icon {
+        font-size: 32px;
+    }
+}
