@@ -7,7 +7,8 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     color: whitesmoke;
-    background-image: image-set("images/bg-image.jpeg") ;
+    background-image: image-set("images/bg-image2.jpg");
+    background-size: cover;
 }
 
 main {
