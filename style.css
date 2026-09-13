@@ -2,16 +2,20 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    
 }
 
 body {
+    
     font-family: Arial, Helvetica, sans-serif;
     color: whitesmoke;
     background-image: image-set("images/bg-image2.jpg");
     background-size: cover;
+    
 }
 
 main {
+    padding-top: 150px;
     margin: auto;
     width: 50%;
     position: absolute;
@@ -95,6 +99,7 @@ footer {
     main {
         margin: auto;
         width: 80%;
+        padding-top: 200px;
     }
 
 
